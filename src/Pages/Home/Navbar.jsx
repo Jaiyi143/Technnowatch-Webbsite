@@ -16,7 +16,7 @@ export default function Navbar() {
       <nav className="bg-white shadow-lg border border-slate-100 rounded-full px-4 sm:px-6 lg:px-10 py-2 sm:py-2.5 flex items-center justify-between gap-4 w-full max-w-6xl">
         <a href="#home" className="shrink-0 flex items-center">
           <img
-            src="/navbar_logo.png"
+            src="/logo/navbar_logo.png"
             alt="Technowatch"
             className="h-8 sm:h-10 lg:h-12 w-auto object-contain"
           />

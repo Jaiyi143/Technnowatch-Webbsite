@@ -2,9 +2,7 @@
 
 @theme {
   --color-brand-blue: #007bff;
-  --color-brand-dark: #0f172a;
-  --color-brand-text: #334155;
-  --color-brand-light: #f8f9fa;
   --font-sans: "Montserrat", sans-serif;
   --font-heading: "Rajdhani", sans-serif;
 }
+
